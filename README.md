@@ -19,8 +19,8 @@
 #### Packages
 | Title | Status |
 | :---: | :---: |
-| NumPy | ToDo |
-| Pandas | ToDo |
+| NumPy | **Completed** |
+| Pandas | **Completed** |
 | SciPy | ToDo |
 | NLTK | ToDo |
 | TextBlob | ToDo |
